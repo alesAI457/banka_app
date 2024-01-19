@@ -1,0 +1,4 @@
+/home/ales/Programiranje/googleTest/vaja1/build/CMakeFiles/rebuild_cache.dir
+/home/ales/Programiranje/googleTest/vaja1/build/CMakeFiles/edit_cache.dir
+/home/ales/Programiranje/googleTest/vaja1/build/CMakeFiles/banka_lib.dir
+/home/ales/Programiranje/googleTest/vaja1/build/CMakeFiles/banka_app.dir

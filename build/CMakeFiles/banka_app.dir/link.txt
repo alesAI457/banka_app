@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/banka_app.dir/main.cpp.o  -o banka_app libbanka_lib.a 

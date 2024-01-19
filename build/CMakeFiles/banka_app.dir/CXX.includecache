@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Banka.hpp
+Oseba.hpp
+../include/Oseba.hpp
+vector
+-
+
+../include/Oseba.hpp
+string
+-
+
+/home/ales/Programiranje/googleTest/vaja1/main.cpp
+iostream
+-
+Oseba.hpp
+/home/ales/Programiranje/googleTest/vaja1/Oseba.hpp
+Banka.hpp
+/home/ales/Programiranje/googleTest/vaja1/Banka.hpp
+
