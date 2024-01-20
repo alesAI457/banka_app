@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ales/Programiranje/googleTest/vaja1/main.cpp" "/home/ales/Programiranje/googleTest/vaja1/build/CMakeFiles/banka_app.dir/main.cpp.o"
+  "/home/ales/Programiranje/googleTest/banka_app/main.cpp" "/home/ales/Programiranje/googleTest/banka_app/build/CMakeFiles/banka_app.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -15,7 +15,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/ales/Programiranje/googleTest/vaja1/build/CMakeFiles/banka_lib.dir/DependInfo.cmake"
+  "/home/ales/Programiranje/googleTest/banka_app/build/CMakeFiles/banka_lib.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

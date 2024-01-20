@@ -20,21 +20,21 @@ Banka.hpp
 string
 -
 
-/home/ales/Programiranje/googleTest/vaja1/src/Banka.cpp
+/home/ales/Programiranje/googleTest/banka_app/src/Banka.cpp
 iostream
 -
 Banka.hpp
-/home/ales/Programiranje/googleTest/vaja1/src/Banka.hpp
+/home/ales/Programiranje/googleTest/banka_app/src/Banka.hpp
 
-/home/ales/Programiranje/googleTest/vaja1/src/Bankomat.cpp
+/home/ales/Programiranje/googleTest/banka_app/src/Bankomat.cpp
 iostream
 -
 Bankomat.hpp
-/home/ales/Programiranje/googleTest/vaja1/src/Bankomat.hpp
+/home/ales/Programiranje/googleTest/banka_app/src/Bankomat.hpp
 
-/home/ales/Programiranje/googleTest/vaja1/src/Oseba.cpp
+/home/ales/Programiranje/googleTest/banka_app/src/Oseba.cpp
 iostream
 -
 Oseba.hpp
-/home/ales/Programiranje/googleTest/vaja1/src/Oseba.hpp
+/home/ales/Programiranje/googleTest/banka_app/src/Oseba.hpp
 

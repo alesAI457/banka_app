@@ -16,11 +16,11 @@ vector
 string
 -
 
-/home/ales/Programiranje/googleTest/vaja1/main.cpp
+/home/ales/Programiranje/googleTest/banka_app/main.cpp
 iostream
 -
 Oseba.hpp
-/home/ales/Programiranje/googleTest/vaja1/Oseba.hpp
+/home/ales/Programiranje/googleTest/banka_app/Oseba.hpp
 Banka.hpp
-/home/ales/Programiranje/googleTest/vaja1/Banka.hpp
+/home/ales/Programiranje/googleTest/banka_app/Banka.hpp
 

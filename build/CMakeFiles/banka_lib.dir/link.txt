@@ -1,2 +1,2 @@
-/usr/bin/ar qc libbanka_lib.a  CMakeFiles/banka_lib.dir/src/Oseba.cpp.o CMakeFiles/banka_lib.dir/src/Banka.cpp.o CMakeFiles/banka_lib.dir/src/Bankomat.cpp.o
+/usr/bin/ar qc libbanka_lib.a CMakeFiles/banka_lib.dir/src/Oseba.cpp.o CMakeFiles/banka_lib.dir/src/Banka.cpp.o CMakeFiles/banka_lib.dir/src/Bankomat.cpp.o
 /usr/bin/ranlib libbanka_lib.a
