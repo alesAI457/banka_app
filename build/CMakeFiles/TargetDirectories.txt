@@ -1,6 +1,0 @@
-/home/ales/Programiranje/googleTest/banka_app/build/CMakeFiles/rebuild_cache.dir
-/home/ales/Programiranje/googleTest/banka_app/build/CMakeFiles/tests.dir
-/home/ales/Programiranje/googleTest/banka_app/build/CMakeFiles/banka_app.dir
-/home/ales/Programiranje/googleTest/banka_app/build/CMakeFiles/edit_cache.dir
-/home/ales/Programiranje/googleTest/banka_app/build/CMakeFiles/test.dir
-/home/ales/Programiranje/googleTest/banka_app/build/CMakeFiles/banka_lib.dir

@@ -3,6 +3,8 @@ cmake_minimum_required(VERSION 3.0)
 project(Banka VERSION 1.0)
 
 set(CMAKE_CXX_STANDARD 17)
+# Dodajte compiler flag-e za code coverage
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fPIC -fprofile-arcs -ftest-coverage -O0 --coverage")
 
 # Dodajte izvorne datoteke v spremenljivko SOURCES
 set(SOURCES

@@ -1,5 +1,4 @@
 #include <gtest/gtest.h>
-//#include "test_banka.cpp"
 
 // Dodajte vse potrebne vključitve za vaše teste tukaj
 

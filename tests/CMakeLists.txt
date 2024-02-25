@@ -6,6 +6,10 @@ project(Banka_Tests VERSION 1.0)
 find_package(GTest REQUIRED)
 include_directories(${GTEST_INCLUDE_DIRS})
 
+set(CMAKE_BUILD_TYPE Debug)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -g")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fPIC -fprofile-arcs -ftest-coverage -O0 --coverage")
+
 # Izvorne datoteke za teste
 set(TEST_SOURCES
     test_banka.cpp

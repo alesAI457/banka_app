@@ -2,6 +2,7 @@
 
 #include "Oseba.hpp"
 #include "Banka.hpp"
+#include "Bankomat.hpp"
 
 int main() {
     // Ustvarimo nekaj komitentov
@@ -10,6 +11,9 @@ int main() {
 
     // Ustvarimo banko
     Banka banka;
+
+    // Ustvarimo Bankomat
+    Bankomat bankomat(banka);
 
     // Dodamo komitente v banko
     banka.dodajKomitenta(komitent1);
@@ -29,6 +33,9 @@ int main() {
 
     std::cout << "Stanje na računu za komitenta 1: " << stanje1 << std::endl;
     std::cout << "Stanje na računu za komitenta 2: " << stanje2 << std::endl;
+
+    bankomat.prijava(1);
+    bankomat.prikaziStanje();
 
     return 0;
 }
